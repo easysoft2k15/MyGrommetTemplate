@@ -1,0 +1,8 @@
+{
+    "projFile": "./src/fsharp/lib.fsx",
+    "sourceMaps": true,
+    "module": "es2015",
+    "rollup": {
+        "dest": "./src/fsharp_out/fsharpBundle.js"
+    }
+}
